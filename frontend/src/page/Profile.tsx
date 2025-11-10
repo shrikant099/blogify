@@ -1,4 +1,3 @@
-import React from "react";
 import { Navbar } from "@/components/Navbar";
 import UserProfileCard from "@/components/UserProfileCard";
 import UserBlogs from "@/components/UserBlogs";
